@@ -1,0 +1,16 @@
+# Node.js / Backend
+backend/Rest-api/node_modules/
+backend/Rest-api/dist/
+backend/Rest-api/.env
+backend/Rest-api/.vscode/
+
+# Angular / Frontend
+angular-forum-project/node_modules/
+angular-forum-project/dist/
+angular-forum-project/e2e/
+angular-forum-project/.vscode/
+angular-forum-project/.angular/
+
+# General
+.DS_Store
+Thumbs.db
